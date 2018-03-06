@@ -1,0 +1,10 @@
+/target/
+/.idea
+.settings/
+target/
+.classpath
+.project
+SHUSearch.iml
+/logs
+src/test
+src/main/resources/application.properties
